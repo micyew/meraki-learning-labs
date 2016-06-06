@@ -1,0 +1,14 @@
+{
+  "labId": "permalink-wifi-hotspot",
+  "files": [
+    {"title": "1.md"}
+  ],
+	"tags": [
+		{"title" : "Meraki"},
+		{"title" : "Cloud"}
+	],
+  "byod": true,
+	"authors": [
+		{"name": "Cory Guynn", "email": ""}
+	]
+}
