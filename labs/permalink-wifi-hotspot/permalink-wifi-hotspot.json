@@ -1,5 +1,8 @@
 {
   "labId": "permalink-wifi-hotspot",
+  "title": "Meraki: Permalink to Wifi Hotspot",
+  "slug": "The purpose of this learning lab is to build a splash page with authentication ",
+  "time": "25",
   "files": [
     {"title": "1.md"}
   ],
