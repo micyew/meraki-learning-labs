@@ -1,0 +1,21 @@
+{
+  "labId": "wifi-hotspot",
+  "title": "WiFi Hotspot - Cisco Meraki ExCap & NodeJS - Learning Lab",
+  "slug": "Building a Meraki WiFi Captive Portal with the Cisco Meraki ExCap API and NodeJS",
+  "time": "30",
+  "tags": [
+    {"title" : "wifi"},
+    {"title": "meraki"},
+    {"title": "splash page"},
+    {"title": "excap"},
+    {"title": "NodeJS"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"}
+  ],
+  "byod": true,
+  "authors": [
+  	{"name": "Cory Guynn", "email": "cory@meraki.com"}
+  ]
+}
