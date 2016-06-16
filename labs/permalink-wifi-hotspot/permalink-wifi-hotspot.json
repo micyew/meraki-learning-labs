@@ -5,13 +5,19 @@
   "time": "25",
   "files": [
     {"title": "1.md"}
+    {"title": "2.md"}
+    {"title": "3.md"}
+    {"title": "4.md"}
   ],
 	"tags": [
 		{"title" : "Meraki"},
-		{"title" : "Cloud"}
+		{"title" : "Cloud"},
+		{"title" : "wifi"},
+		{"title" : "excap"},
+		{"title" : "nodejs"}
 	],
   "byod": true,
 	"authors": [
-		{"name": "Cory Guynn", "email": ""}
+		{"name": "Cory Guynn", "email": "cory@meraki.com"}
 	]
 }
