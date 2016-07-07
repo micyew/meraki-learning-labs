@@ -1,6 +1,6 @@
 {
   "labId": "permalink-wifi-hotspot",
-  "title": "Meraki: Permalink to Wifi Hotspot",
+  "title": "Meraki: Build Your Own WiFi Hotspot",
   "slug": "The purpose of this learning lab is to build a splash page with authentication ",
   "time": "25",
   "files": [
@@ -12,9 +12,10 @@
 	"tags": [
 		{"title" : "Meraki"},
 		{"title" : "Cloud"},
-		{"title" : "wifi"},
-		{"title" : "excap"},
-		{"title" : "nodejs"}
+		{"title" : "Networking"},
+		{"title" : "Splash"},
+		{"title" : "WiFi"},
+		{"title" : "Mobility"}
 	],
 	"authors": [
 		{"name": "Cory Guynn", "email": "cory@meraki.com"}
